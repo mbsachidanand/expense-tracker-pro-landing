@@ -1,0 +1,35 @@
+Requirements for Expense Management App
+
+1) Budgeting
+
+Ability to:
+- Specify budget (monthly or weekly), by category
+- Use predefined categories
+- Specify new (custom) categories
+- Modify budget
+- Delete budget
+
+2) Expenses
+- Add expenses, by category
+- Modify expenses
+- Delete expenses
+- Add, modify, delete placeholder (upcoming) expenses, that don't need to be settled
+
+3) Expense Sharing
+- Create events
+- Invite friends
+- Add expenses to be shared, for an event
+- Add friends against an expense to the shared, specify proportion (% or amount)
+- Upload bills
+- Easily apportion shared expenses as per uploaded bill, across friends
+- Modify expenses 
+
+4) Reports
+- Expenses against budget by category for a duration
+- Event expenses by category
+- Outstanding balances of friends, by event
+- Log of all user actions, by duration, category, event
+- View uploaded bills
+
+5) Usability
+- Highly usable including by non-tech savvy users, on par with or better than WhatsApp, FB, Insta and Google Pay
