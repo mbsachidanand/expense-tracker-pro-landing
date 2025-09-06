@@ -39,7 +39,7 @@ const HeroSection = () => {
               transition={{ duration: 0.8, delay: 0.4 }}
               className="mt-6 text-xl text-gray-600 leading-relaxed max-w-2xl"
             >
-              Track budgets, share expenses with friends, and get detailed insights. 
+              Track budgets and expenses, share expenses with friends, and get detailed insights. 
               The most intuitive expense management app designed for modern iOS users.
             </motion.p>
 
